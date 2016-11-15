@@ -1,4 +1,4 @@
-# **Progressive Web Apps**, The Renaissance of Web
+# **Progressive Web Apps**, Make Web Great Again
 
 ### （Progressive Web App 复兴序章）
 
