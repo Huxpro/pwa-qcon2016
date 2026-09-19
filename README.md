@@ -2,9 +2,9 @@
 
 ### （Progressive Web App 复兴序章）
 
-### [Watch Slides → ](https://huangxuan.me/pwa-qcon2016)
+### [Watch Slides → ](https://huxpro.github.io/pwa-qcon2016)
 
-<img src="https://huangxuan.me/pwa-qcon2016/attach/qrcode.png" width="350" />
+<img src="https://huxpro.github.io/pwa-qcon2016/attach/qrcode.png" width="350" />
 
 
 ### Catalog
